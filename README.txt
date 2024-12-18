@@ -27,5 +27,3 @@ Save the following code as an  file, for example, .
 Open the file in RStudio or your R editor.
 Click the "Run" button or use the shortcut key (usually Ctrl + Enter) to execute the script..Rdata_analysis.R
 
-
-Please note that the original Markdown had a small formatting issue where (Loading R packages) was not properly closed with a backtick.
