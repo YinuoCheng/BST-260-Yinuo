@@ -26,4 +26,4 @@ Running the R Script
 Save the following code as an  file, for example, .
 Open the file in RStudio or your R editor.
 
-
+The code are commented in the qmd file of how to reproduce all the results.
